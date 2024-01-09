@@ -1,0 +1,14 @@
+body {
+    background-color: cadetblue;
+    color: #333;
+    font-family: monospace;
+    font-size: 1.5rem;
+}
+
+button {
+    padding: 3rem;
+    font-family: inherit;
+    font-size: 3rem;
+    background-color: #333;
+    color: bisque;
+}

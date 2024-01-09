@@ -1,0 +1,9 @@
+Dividir una aplicación en módulos es eficiente porque favorece la reutilización 
+de código. 
+En un archivo defines funciones que pueden ser utilizadas por otros archivos, o separas
+diversas partes de la lógica de la aplicación en múltiples archivos
+Los ES modules es la forma de usar módulos en JavaScript. Podemos definir un módulo
+como un archivo que contiene código que puede ser utilizado por otros archivos.
+
+En HTML, cuando se agrega el archivo JS con la etiqueta script, tienes que agregarle
+el atributo type y ponerle el valor de 'module'
